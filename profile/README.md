@@ -1,2 +1,2 @@
-# .github
-Profile
+# DisHost
+- Providing hosting service for Discord Bots
